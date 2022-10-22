@@ -1,9 +1,10 @@
 package java_inheritance;
 
 class Bicycle {
-
+    // properties
     protected int gear;
     protected int speed;
+
 
     //base constructor
 
